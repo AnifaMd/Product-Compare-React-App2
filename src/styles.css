@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.react-bootstrap-table thead th div {
+  height: 50px;
+  text-align: center;
+}
+
+.react-bootstrap-table thead th div span {
+  float: right;
+  width: 100%;
+  text-align: center;
+}
